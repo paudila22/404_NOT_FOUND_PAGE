@@ -1,0 +1,12 @@
+.test{
+    background: red; 
+    width: 20px;
+height: 20px;
+}
+@media (min-width: 768px) {
+        .test{
+            background: rgb(18, 70, 190); 
+        
+        }
+    
+}
